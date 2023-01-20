@@ -16,4 +16,6 @@ The project uses OpenAI's DALL-E model to create images from textual prompts by 
 ## 🛠 Skills
 JavaScript, Express(Node.js), CSS...
 
-![snap]("")
+## Snap
+
+![sanp](https://github.com/abhijeet-0019/AI-Image-Generator/blob/master/openai_image_generator.png)
